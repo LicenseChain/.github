@@ -1,12 +1,11 @@
-## Hi there 👋
+<img src="[https://cdn.keyauth.cc/v2/assets/media/logos/logo-1-dark.png](https://licensechain.app/assets/logo.png)" alt="" width="180" height="100">
 
-<!--
+LicenseChain is an open-source authentication system with client SDKs for [Python](https://github.com/LicenseChain/LicenseChain-Python-Example), [JavaScript](https://github.com/LicenseChain/LicenseChain-JS-Example) and [PHP](https://github.com/LicenseChain/LicenseChain-PHP-Example).
 
-**Here are some ideas to get you started:**
+https://licensechain.app
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Join telegram for updates and chat https://t.me/licensechain
+
+Create support ticket here https://licensechain.app/support
+
+View video tutorials at https://youtube.com/@LicenseChain
