@@ -1,4 +1,4 @@
-<img src="https://licensechain.app/assets/logo.png" alt="" width="180" height="100">
+<img src="[https://licensechain.app/assets/logo.png](https://licensechain.app/theme/licensechain/assets/logo.png)" alt="" width="180" height="100">
 
 LicenseChain is an open-source authentication system with client SDKs for [Python](https://github.com/LicenseChain/LicenseChain-Python), [JavaScript](https://github.com/LicenseChain/LicenseChain-JS) and [PHP](https://github.com/LicenseChain/LicenseChain-PHP).
 
