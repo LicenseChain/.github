@@ -6,6 +6,6 @@ https://licensechain.app
 
 Join telegram for updates and chat https://t.me/licensechain
 
-Create support ticket here https://licensechain.app/support
+Create a support ticket here https://licensechain.app/support
 
 View video tutorials at https://youtube.com/@LicenseChain
