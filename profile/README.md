@@ -1,4 +1,4 @@
-LicenseChain is an open-source authentication system with client SDKs for C#, C++, Python, Java, JavaScript, NodeJS, VB.NET, PHP, Rust, Go, Lua, Ruby, and Perl.
+LicenseChain is an open-source authentication system with client SDKs for C#, C++, Python, Java, JavaScript, NodeJS, VB.NET, PHP, Rust, Go, Ruby, and Perl.
 
 https://licensechain.app
 
