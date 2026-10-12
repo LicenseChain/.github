@@ -51,7 +51,7 @@ LicenseChain helps developers and businesses manage, validate, and track softwar
 
 ### Mobile, desktop & game
 
-- [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK) — `io.github.licensechain:licensechain-android-sdk` 1.0.2 (Maven Central deployment PUBLISHING → sync)
+- [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK) — [`io.github.licensechain:licensechain-android-sdk`](https://central.sonatype.com/artifact/io.github.licensechain/licensechain-android-sdk) **1.0.2** (Maven Central)
 - [iOS SDK](https://github.com/LicenseChain/LicenseChain-iOS-SDK) — SPM (git); CocoaPods `LicenseChainiOS` 1.0.3 ready (Mac `pod trunk` pending)
 - [macOS SDK](https://github.com/LicenseChain/LicenseChain-macOS-SDK) — SPM (git); CocoaPods `LicenseChainmacOS` 1.0.3 ready (Mac `pod trunk` pending)
 - [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK) — [`com.licensechain.sdk`](https://openupm.com/packages/com.licensechain.sdk/) (OpenUPM) / git URL
