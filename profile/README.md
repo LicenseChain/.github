@@ -47,15 +47,15 @@ LicenseChain helps developers and businesses manage, validate, and track softwar
 - [C# SDK](https://github.com/LicenseChain/LicenseChain-CSharp-SDK) — `LicenseChain.CSharp.SDK` (NuGet)
 - [VB.NET SDK](https://github.com/LicenseChain/LicenseChain-VB-SDK) — `LicenseChain.VB.SDK` (NuGet)
 - [Perl SDK](https://github.com/LicenseChain/LicenseChain-Perl-SDK)
-- [C++ SDK](https://github.com/LicenseChain/LicenseChain-CPP-SDK)
+- [C++ SDK](https://github.com/LicenseChain/LicenseChain-CPP-SDK) — CMake/git; Conan + vcpkg overlay recipes in-repo
 
 ### Mobile, desktop & game
 
-- [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK)
-- [iOS SDK](https://github.com/LicenseChain/LicenseChain-iOS-SDK) — SPM (git)
-- [macOS SDK](https://github.com/LicenseChain/LicenseChain-macOS-SDK) — SPM (git)
-- [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK) — git
-- [Luau SDK](https://github.com/LicenseChain/LicenseChain-Luau-SDK) — Wally pending claim
+- [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK) — Maven Central publish in progress (`io.github.licensechain:licensechain-android-sdk`)
+- [iOS SDK](https://github.com/LicenseChain/LicenseChain-iOS-SDK) — SPM (git); CocoaPods `LicenseChainiOS` 1.0.3 ready (Mac `pod trunk` pending)
+- [macOS SDK](https://github.com/LicenseChain/LicenseChain-macOS-SDK) — SPM (git); CocoaPods `LicenseChainmacOS` 1.0.3 ready (Mac `pod trunk` pending)
+- [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK) — git URL; [OpenUPM PR #7070](https://github.com/openupm/openupm/pull/7070) (`com.licensechain.sdk`)
+- [Luau SDK](https://github.com/LicenseChain/LicenseChain-Luau-SDK) — Wally blocked on scope claim ([UpliftGames/wally#271](https://github.com/UpliftGames/wally/issues/271))
 
 ---
 
