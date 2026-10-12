@@ -41,9 +41,9 @@ LicenseChain helps developers and businesses manage, validate, and track softwar
 - [Python SDK](https://github.com/LicenseChain/LicenseChain-Python-SDK) — `licensechain-sdk` (PyPI)
 - [Go SDK](https://github.com/LicenseChain/LicenseChain-Go-SDK) — `github.com/licensechain/licensechain-go-sdk`
 - [Rust SDK](https://github.com/LicenseChain/LicenseChain-Rust-SDK) — `licensechain` (crates.io)
-- [Ruby SDK](https://github.com/LicenseChain/LicenseChain-Ruby-SDK)
-- [PHP SDK](https://github.com/LicenseChain/LicenseChain-PHP-SDK)
-- [Java SDK](https://github.com/LicenseChain/LicenseChain-Java-SDK)
+- [Ruby SDK](https://github.com/LicenseChain/LicenseChain-Ruby-SDK) — [`licensechain_ruby_sdk`](https://rubygems.org/gems/licensechain_ruby_sdk) (RubyGems)
+- [PHP SDK](https://github.com/LicenseChain/LicenseChain-PHP-SDK) — [`licensechain/sdk`](https://packagist.org/packages/licensechain/sdk) (Packagist, through v1.0.3)
+- [Java SDK](https://github.com/LicenseChain/LicenseChain-Java-SDK) — GitHub Packages; Maven Central not verified
 - [C# SDK](https://github.com/LicenseChain/LicenseChain-CSharp-SDK) — `LicenseChain.CSharp.SDK` (NuGet)
 - [VB.NET SDK](https://github.com/LicenseChain/LicenseChain-VB-SDK) — `LicenseChain.VB.SDK` (NuGet)
 - [Perl SDK](https://github.com/LicenseChain/LicenseChain-Perl-SDK)
@@ -52,10 +52,10 @@ LicenseChain helps developers and businesses manage, validate, and track softwar
 ### Mobile, desktop & game
 
 - [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK)
-- [iOS SDK](https://github.com/LicenseChain/LicenseChain-iOS-SDK)
-- [macOS SDK](https://github.com/LicenseChain/LicenseChain-macOS-SDK)
-- [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK)
-- [Luau SDK](https://github.com/LicenseChain/LicenseChain-Luau-SDK)
+- [iOS SDK](https://github.com/LicenseChain/LicenseChain-iOS-SDK) — SPM (git)
+- [macOS SDK](https://github.com/LicenseChain/LicenseChain-macOS-SDK) — SPM (git)
+- [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK) — git
+- [Luau SDK](https://github.com/LicenseChain/LicenseChain-Luau-SDK) — Wally pending claim
 
 ---
 
