@@ -51,10 +51,10 @@ LicenseChain helps developers and businesses manage, validate, and track softwar
 
 ### Mobile, desktop & game
 
-- [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK) — Maven Central publish in progress (`io.github.licensechain:licensechain-android-sdk`)
+- [Android SDK](https://github.com/LicenseChain/LicenseChain-Android-SDK) — [`io.github.licensechain:licensechain-android-sdk`](https://central.sonatype.com/artifact/io.github.licensechain/licensechain-android-sdk) (Maven Central)
 - [iOS SDK](https://github.com/LicenseChain/LicenseChain-iOS-SDK) — SPM (git); CocoaPods `LicenseChainiOS` 1.0.3 ready (Mac `pod trunk` pending)
 - [macOS SDK](https://github.com/LicenseChain/LicenseChain-macOS-SDK) — SPM (git); CocoaPods `LicenseChainmacOS` 1.0.3 ready (Mac `pod trunk` pending)
-- [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK) — git URL; [OpenUPM PR #7070](https://github.com/openupm/openupm/pull/7070) (`com.licensechain.sdk`)
+- [Unity SDK](https://github.com/LicenseChain/LicenseChain-Unity-SDK) — git URL; OpenUPM `com.licensechain.sdk` ([PR #7070 merged](https://github.com/openupm/openupm/pull/7070), registry build pending)
 - [Luau SDK](https://github.com/LicenseChain/LicenseChain-Luau-SDK) — Wally blocked on scope claim ([UpliftGames/wally#271](https://github.com/UpliftGames/wally/issues/271))
 
 ---
