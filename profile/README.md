@@ -47,7 +47,7 @@ LicenseChain helps developers and businesses manage, validate, and track softwar
 - [C# SDK](https://github.com/LicenseChain/LicenseChain-CSharp-SDK) — `LicenseChain.CSharp.SDK` (NuGet)
 - [VB.NET SDK](https://github.com/LicenseChain/LicenseChain-VB-SDK) — `LicenseChain.VB.SDK` (NuGet)
 - [Perl SDK](https://github.com/LicenseChain/LicenseChain-Perl-SDK)
-- [C++ SDK](https://github.com/LicenseChain/LicenseChain-CPP-SDK) — CMake/git; Conan + vcpkg overlay recipes in-repo
+- [C++ SDK](https://github.com/LicenseChain/LicenseChain-CPP-SDK) — CMake from GitHub source
 
 ### Mobile, desktop & game
 
